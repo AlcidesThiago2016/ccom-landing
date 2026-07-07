@@ -90,7 +90,7 @@ const galleryImages = [
     tag: "Canteiro",
   },
   {
-    src: "/images/frota-01.jpeg",
+    src: "/images/frota-09.jpeg",
     alt: "Equipamento CCOM Locações mobilizado em obra de construção civil",
     tag: "Frota CCOM",
   },
@@ -110,7 +110,7 @@ const galleryImages = [
     tag: "Equipamentos",
   },
   {
-    src: "/images/frota-07.jpeg",
+    src: "/images/frota-10.jpeg",
     alt: "Operação de locação CCOM — bomba e perfuratriz em Brasília",
     tag: "Em campo",
   },
